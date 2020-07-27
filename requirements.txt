@@ -1,0 +1,2 @@
+# Editable install with no version control (khatri-pck==0.0.1)
+-e c:\users\apurva khatri\documents\projects\khatri-pck\src
