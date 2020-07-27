@@ -1,2 +1,29 @@
-# Editable install with no version control (khatri-pck==0.0.1)
--e c:\users\apurva khatri\documents\projects\khatri-pck\src
+atomicwrites==1.4.0
+attrs==19.3.0
+bleach==3.1.5
+certifi==2020.6.20
+chardet==3.0.4
+colorama==0.4.3
+docutils==0.16
+idna==2.10
+keyring==21.2.1
+-e git+https://github.com/apurvakhatri/Khatri-pck.git@ee91ee08668a7314ee18f66671a3dde6a8855f05#egg=khatri_pck
+more-itertools==8.4.0
+packaging==20.4
+pkginfo==1.5.0.1
+pluggy==0.13.1
+py==1.9.0
+Pygments==2.6.1
+pyparsing==2.4.7
+pytest==5.4.3
+pywin32-ctypes==0.2.0
+readme-renderer==26.0
+requests==2.24.0
+requests-toolbelt==0.9.1
+rfc3986==1.4.0
+six==1.15.0
+tqdm==4.48.0
+twine==3.2.0
+urllib3==1.25.10
+wcwidth==0.2.5
+webencodings==0.5.1

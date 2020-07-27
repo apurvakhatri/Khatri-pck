@@ -17,6 +17,7 @@ setup (
     py_modules = ["helloworld"],
     package_dir = {'': 'src'},
 
+    url = "https://github.com/apurvakhatri/Khatri-pck/tree/draft1.0",
     author = 'Apurva Khatri',
     author_email = 'apurvakhatri2011@gmail.com',
 
