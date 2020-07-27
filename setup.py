@@ -18,7 +18,7 @@ setup (
     package_dir = {'': 'src'},
 
     author = 'Apurva Khatri',
-    author_email = 'apurvakhatri2011@gmail.com'
+    author_email = 'apurvakhatri2011@gmail.com',
 
     long_description = long_description,
     long_description_content_type = "text/markdown",
